@@ -1,0 +1,10 @@
+IntelliJ IDEA - The best java and polyglot IDE
+
+Out of the box, IntelliJ IDEA provides a comprehensive 
+feature set including tools and integrations with the 
+most important modern technologies and frameworks for 
+enterprise and web development with Java, Scala, Groovy 
+and other languages.
+
+This package just makes a slackbuild style package for
+the Community Edition of IntelliJ IDEA.
